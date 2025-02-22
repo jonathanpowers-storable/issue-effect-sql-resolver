@@ -1,5 +1,3 @@
-# Effect HTTP Server Example
+# SqlResolver.findById Issue Reproduction
 
-## Getting Started
-
-Make sure to create a `.env` file in the root of the repository based on the `.env.example` file.
+`pnpm install && pnpm dev`
